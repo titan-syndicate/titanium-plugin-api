@@ -1,4 +1,4 @@
-module github.com/titan-syndicate/titanium-plugin-api
+module github.com/titan-syndicate/titanium-plugin-sdk
 
 go 1.24.2
 
