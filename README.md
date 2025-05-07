@@ -16,8 +16,8 @@ go get github.com/titan-syndicate/titanium-plugin-sdk
 package main
 
 import (
-    "github.com/titan-syndicate/titanium-plugin-api/pkg/logger"
-    "github.com/titan-syndicate/titanium-plugin-api/pkg/pluginapi"
+    "github.com/titan-syndicate/titanium-plugin-sdk/pkg/logger"
+    "github.com/titan-syndicate/titanium-plugin-sdk/pkg/pluginapi"
 )
 
 func main() {
@@ -68,7 +68,7 @@ mage all
 ### Project Structure
 
 ```
-titanium-plugin-api/
+titanium-plugin-sdk/
 ├── pkg/
 │   ├── pluginapi/     # RPC interfaces and protobuf definitions
 │   └── logger/        # Structured logging package
