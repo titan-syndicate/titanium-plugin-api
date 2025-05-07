@@ -5,7 +5,7 @@ This SDK provides the necessary tools and interfaces for developing plugins for 
 ## Installation
 
 ```bash
-go get github.com/titan-syndicate/titanium-plugin-api
+go get github.com/titan-syndicate/titanium-plugin-sdk
 ```
 
 ## Usage
